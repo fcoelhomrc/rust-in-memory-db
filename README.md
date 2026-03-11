@@ -2,6 +2,9 @@
 
 A Rust-based inventory management system modelling a distribution warehouse, built as a university project.
 
+[demo.webm](https://github.com/user-attachments/assets/c53a729d-be61-4ace-878e-e28e8680b475)
+
+## Description 
 Implements a prototypical in-memory database with indexed lookups, structural constraints, pluggable allocation strategies, and a composable filter pipeline for item ingestion.
 
 ## Features
